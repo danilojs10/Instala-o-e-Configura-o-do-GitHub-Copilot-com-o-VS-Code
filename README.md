@@ -1,0 +1,1 @@
+# Instala-o-e-Configura-o-do-GitHub-Copilot-com-o-VS-Code
